@@ -1,0 +1,12 @@
+PODS:
+  - ATMHud@dhoerl (3.0.0):
+    - ATMHud@dhoerl/Core
+  - ATMHud@dhoerl/Core (3.0.0)
+
+DEPENDENCIES:
+  - ATMHud@dhoerl
+
+SPEC CHECKSUMS:
+  ATMHud@dhoerl: c6261c5607758606ab0f45718651e3ad723712a1
+
+COCOAPODS: 0.31.1
